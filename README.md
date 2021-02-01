@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor M.</h1>
 <h3 align="center">A passionate Science Computer student at FEI University Center and a fierce believer that we're all able to code despite the field where you came from.</h3>
 
-- 🎓 Tech Graduation in Multimedia from **Liceu de Artes e Ofícios de SP**
+- 🎓 Tech Degree in Multimedia at **Liceu de Artes e Ofícios de SP**
 
 - 🌱 I’m currently sharpening my skills **around React JS, Data Structures with Python and JS.**
 
