@@ -10,7 +10,8 @@
 - 🤝 I’m looking forward to help with **React JS and Python Projects**
 
 - ⚡ Fun fact **I have few projects lying around here. I got few extras offline, so, in the near future, I'll bring the rest of them .**
-
+<h3 align="left">I have several Projects involving: </h3>
+<h2 align="left">Eu tenho vários projetos envolvendo: </h2>
 
 <h3 align="left">Programming Languages / Linguagens de Programação</h3>
 <p align="left"> 
