@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently sharpening my skills **around React JS, Data Structures with Python and JS.**
 
-- 🔭 I’m currently working on **React JS Demo Projects.**
+- 🔭 I’m currently working on **JS Demo Projects.**
 
-- 🤝 I’m looking forward to help with **React JS and Python Projects**
+- 🤝 I’m looking forward to help with **JS and Python Projects**
 
 - ⚡ Fun fact **I have few projects lying around here. I got few extras offline, so, in the near future, I'll bring the rest of them .**
 <h2 align="left">I have several Projects involving: </h2>
